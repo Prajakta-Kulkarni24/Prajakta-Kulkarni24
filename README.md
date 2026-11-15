@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Prajakta Kulkarni</h1>
 
-<h3 align="center">💜 Aspiring Developer | Tech Explorer | Cloud Computing Enthusiast</h3>
+<h3 align="center">💜 Aspiring Developer | Tech Explorer | Code Voyager</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+About+Technology;Learning+MERN+Stack;Exploring+Artificial+Intelligence;Building+Something+Amazing!" />
